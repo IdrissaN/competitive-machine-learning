@@ -1,1 +1,1 @@
-# competitive-machine-learning
+# Useful functions for Machine Learning projects
